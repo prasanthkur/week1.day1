@@ -9,8 +9,8 @@ public class NegativeToPositive {
 		{
 			int res=(num*-1);
 			
-			System.out.print("The number is " + num);
-			System.out.println(" and converted to " +res);
+			System.out.print("The number is " + num +" and converted to " +res);
+			
 			
 		
 		}
